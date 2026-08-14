@@ -83,7 +83,7 @@ Open `index.html` in your browser or use the **Live Server** extension in VS Cod
 
 ## 🌐 Live Demo
 
-Deployment coming soon...
+🔗 **Live Website:** [Growth Website](https://rakshitha-m-b.github.io/growth-website/)
 
 ---
 
@@ -91,7 +91,7 @@ Deployment coming soon...
 
 **Rakshitha M B**
 
-GitHub: https://github.com/Rakshitha-M-B
+GitHub: [Rakshitha-M-B](https://github.com/Rakshitha-M-B)
 
 ---
 
