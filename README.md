@@ -83,7 +83,7 @@ Open `index.html` in your browser or use the **Live Server** extension in VS Cod
 
 ## 🌐 Live Demo
 
-🔗 **Live Website:** [Growth Website](https://rakshitha-m-b.github.io/growth-website/)
+🔗 **Live Website:** [Growth Website](graceful-gelato-a26e1a.netlify.app)
 
 ---
 
