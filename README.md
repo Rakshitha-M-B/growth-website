@@ -4,7 +4,7 @@ A modern and responsive business landing page built using **HTML5**, **CSS3**, a
 
 ## 📸 Preview
 
-![Growth Website Homepage](screen.png)
+![Growth Website Homepage](images/screen.png)
 
 ---
 
